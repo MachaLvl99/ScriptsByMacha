@@ -42,5 +42,3 @@ def FormatAndChunkMessages(InputFile, OutputFile):
 
 # Usage:
 # FormatAndChunkMessages("/path/to/input.file", "/path/to/output.file")
-# tokenized_messages.json input
-# formatted_chunks.json output
