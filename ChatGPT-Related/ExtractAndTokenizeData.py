@@ -32,5 +32,3 @@ def ExtractAndTokenizeConversations(InputFile, OutputFile):
 
 # Usage:
 # ExtractAndTokenizeConversations("/path/to/input.file", "/path/to/output.file")
-# conversations.json input
-# tokenized_messages.json output
